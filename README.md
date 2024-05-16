@@ -18,16 +18,18 @@ https://docs.google.com/document/d/1htNsQUbzZnmArdVtOMQIlckGfQhBei8AfFIE72yq6qY/
 5. Modeling: Training/fine-tuning models
 Code for all models can be found in ipynb files labelled 1_ to 11_
 
-4.1. Interpretation 
+4. Interpretation:
+
 Out of the 11 models tried, model 7 had the best performance with a accuracy of 99.56%.
   More details regarding hyperparameter finetuning, accuracies and
   interpretation of all the models in the following document:
   'Part4 Interpretation'
 https://docs.google.com/spreadsheets/d/17N36XGVNr86PGZYGTEOcGaar95--R9Gv/edit?usp=sharing&ouid=101071604631371999895&rtpof=true&sd=true
 
-4.2. Validation
+Validation:
+
 User validation by setting up frontend
-(useed randomly chosen pictures of different breeds online)
+(used randomly chosen pictures of different breeds online)
 https://huggingface.co/spaces/wangliting/oxfordpets
 
 Validation by comparing with 2 benchmarks: 
