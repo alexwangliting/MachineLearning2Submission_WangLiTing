@@ -27,7 +27,7 @@ https://docs.google.com/spreadsheets/d/17N36XGVNr86PGZYGTEOcGaar95--R9Gv/edit?us
 
 6b. Validation
 User validation by setting up frontend
-- use randomly chosen pictures of different breeds online
+(useed randomly chosen pictures of different breeds online)
 https://huggingface.co/spaces/wangliting/oxfordpets
 
 Validation by comparing with 2 benchmarks: 
