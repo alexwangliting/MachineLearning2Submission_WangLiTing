@@ -17,6 +17,7 @@ https://docs.google.com/document/d/1htNsQUbzZnmArdVtOMQIlckGfQhBei8AfFIE72yq6qY/
 
 5. Modeling: Training/fine-tuning models
 Code for all models can be found in ipynb files labelled 1_ to 11_
+*** Must use colab's free T4 GPU ***
 
 4. Interpretation:
 
