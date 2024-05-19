@@ -14,6 +14,8 @@ Used Oxford Pets dataset
   Detailed explanantion in the following document:
   'Part2 Data Collection and Generation'
 https://docs.google.com/document/d/1htNsQUbzZnmArdVtOMQIlckGfQhBei8AfFIE72yq6qY/edit?usp=sharing
+  Dataset is too large to be uploaded on the repository, so here is the link to the dataset on google drive:
+https://drive.google.com/file/d/1oW9bbRr8_HaZGAcyaH8jKABIXUfqCxZB/view?usp=sharing
 
 5. Modeling: Training/fine-tuning models
 Code for all models can be found in ipynb files labelled 1_ to 11_
